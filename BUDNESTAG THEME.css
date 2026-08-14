@@ -1,0 +1,57 @@
+/**
+ * @name my BUNDESTAG
+ * @version 1.0.6.3
+ * @ein geiles THEME
+ * @neger
+ * @website https://github.com/Bundestag1884
+ * @source https://github.com/Bundestag1884/OWN-GLASS-THEME/blob/main/source.css
+ * @donate bc1qz4dak3gx7ee7m9eld3tvwpzhqsqsetx0w2unjt
+ * @invite https://discord.gg/6aRDWuNxUB
+ * @stay opsec mf
+*/
+
+@import url('https://github.com/Bundestag1884/OWN-GLASS-THEME/blob/main/source.css');
+
+:root {
+  --app-bg: url('https://images.hdqwalls.com/wallpapers/sailor-moon-anime-girl-hb.jpg');
+  --app-blur: 4px;
+  --app-margin: 26px;
+  --app-radius: 10px;
+  --accent-hue: 160;
+  --accent-saturation: 77%;
+  --accent-lightness: 47%;
+  --accent-opacity: 1;
+  --sidebar-color: rgba(5, 5, 5, 0.4);
+  --main-content-color: rgba(0,0,0,0.2);
+  --undefined: 0;
+  --interactive-normal: #aaa;
+  --interactive-hover: #e9dada;
+  --interactive-active: #fff;
+  --interactive-muted: #181313;
+  --undefined: 0;
+  --background-modifier-hover: rgba(8, 7, 7, 0.075);
+  --background-modifier-selected: rgba(12, 12, 12, 0.125);
+  --message-color: rgba(3, 3, 3, 0.4);
+  --message-radius: 8px;
+  --message-padding-top: 8px;
+  --message-padding-side: 8px;
+  --undefined: 0;
+  --reply-hue: 226;
+  --reply-saturation: 60%;
+  --reply-lightness: 61%;
+  --reply-opacity: 1;
+  --textarea-color: 255,255,255;
+  --textarea-alpha: 0.1;
+  --textarea-alpha-focus: 0.15;
+  --textarea-radius: 22px;
+  --card-color: rgba(0,0,0,0.4);
+  --card-color-hover: rgba(255, 0, 0, 0.5);
+  --card-color-select: rgba(20, 15, 15, 0.7);
+  --button-height: 32px;
+  --button-padding: 0 16px;
+  --button-radius: 20px;
+}
+
+/* CREATED BY BUNDESTAG
+
+
